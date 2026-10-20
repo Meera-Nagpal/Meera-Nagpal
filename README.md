@@ -17,7 +17,7 @@
 I'm a Computer Science student and software developer passionate about creating robust, user-centric applications — from **real-time AI reliability and evaluation platforms** and **modern full-stack web systems** to **rigorous C++ algorithms** and **interactive 3D web experiences**.
 
 - 🔭 **Building:** [RELIQ](https://reliq-nine.vercel.app/) — a real-time AI reliability, regression testing, and evaluation platform.
-- 🌐 **Full-Stack & Web Dev:** React, Vite, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, Node.js, and Express.
+- 🌐 **Full-Stack & Web Dev:** [Meera_WebDev_Journey](https://github.com/Meera-Nagpal/Meera_WebDev_Journey) — React, Vite, TypeScript, JavaScript, Tailwind CSS, shadcn/ui, Node.js, Express.
 - ⚡ **Core Foundations:** Data Structures, Algorithms, Object-Oriented Programming (OOP), and memory optimization in C++.
 - 🎨 **Creative & UI/UX:** Designing modern interfaces in Figma and exploring Three.js & GSAP for interactive animations.
 - 🎯 **Goals:** Contributing to high-impact software engineering teams, building scalable products, and open-source collaboration.
@@ -31,7 +31,7 @@ I'm a Computer Science student and software developer passionate about creating 
 | **RELIQ** | **Real-Time AI Reliability & Regression Testing Platform.**<br>• Evaluates, compares, and monitors AI systems using real model APIs.<br>• Measures output quality, latency, token usage, cost, failure rates, and regressions.<br>• Full-stack architecture with real-time test runs and persistent evaluation telemetry.<br>• *Stack: React, Vite, Node.js, Express, SQLite, Tailwind CSS, AI APIs* | [Live Demo](https://reliq-nine.vercel.app/) • [Repo](https://github.com/Meera-Nagpal/RELIQ) |
 | **ACM Platform** | **Modern Interactive Web Application.**<br>• High-performance frontend with responsive UI components and rapid state workflows.<br>• Designed with accessible component patterns and modern design systems.<br>• *Stack: Vite, React, TypeScript, Tailwind CSS, shadcn/ui* | [Repo](https://github.com/Meera-Nagpal/ACM-Project) |
 | **C++ DSA & Problem Solving** | **Algorithmic Mastery & Core Foundations.**<br>• Structured implementations of Binary Trees, Queues, Linked Lists, Stack patterns, and Recursion.<br>• Deep dive into OOP principles (Polymorphism, Inheritance, Encapsulation) and memory efficiency.<br>• *Stack: C++, Data Structures, Algorithms, STL* | [Repo](https://github.com/Meera-Nagpal/Mee_ra_DSA_journey) |
-| **Creative & Web Dev Archive** | **Frontend Engineering & Interactive Components.**<br>• Explorations in full-stack architectures, interactive UI designs, and creative web animations.<br>• Experiments with modern styling frameworks, state management, and Three.js visual components.<br>• *Stack: JavaScript, React, HTML5, CSS3, Three.js, GSAP* | [GitHub Profile](https://github.com/Meera-Nagpal) |
+| **Web Dev Journey & Projects** | **Full-Stack Applications, Hackathons & Interactive Web Systems.**<br>• Production-grade platforms including Smart India Hackathon (SIH) solutions (`dp-edu` & `hierarch-hub`).<br>• Modern React 19 & Vite apps featuring TypeScript, Tailwind CSS, shadcn/ui, Radix UI & TanStack Query.<br>• 80+ modular development modules, responsive UI systems, DOM scripting, and interactive projects.<br>• *Stack: React 19, TypeScript, Vite, Tailwind CSS, shadcn/ui, JavaScript, HTML5, CSS3* | [Repo](https://github.com/Meera-Nagpal/Meera_WebDev_Journey) |
 
 ---
 
